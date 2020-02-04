@@ -1,0 +1,9 @@
+C:\Users\ramurill\Documents\UTN\Calidad del Software\Project\Snack_Store\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\ramurill\Documents\UTN\Calidad del Software\Project\Snack_Store\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\ramurill\Documents\UTN\Calidad del Software\Project\Snack_Store\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\ramurill\Documents\UTN\Calidad del Software\Project\Snack_Store\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\ramurill\Documents\UTN\Calidad del Software\Project\Snack_Store\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ramurill\Documents\UTN\Calidad del Software\Project\Snack_Store\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ramurill\Documents\UTN\Calidad del Software\Project\Snack_Store\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\ramurill\Documents\UTN\Calidad del Software\Project\Snack_Store\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\ramurill\Documents\UTN\Calidad del Software\Project\Snack_Store\DAL\obj\Debug\netstandard2.0\DAL.pdb
